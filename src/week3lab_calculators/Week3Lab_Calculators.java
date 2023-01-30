@@ -16,6 +16,7 @@ public class Week3Lab_Calculators {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        // Testing if Git Commit and Push will still work
     }
     
 }
